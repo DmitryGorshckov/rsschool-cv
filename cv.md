@@ -46,4 +46,4 @@ CODE EXAMPLES,EXPERIENCE        public class MainActivity extends AppCompatActiv
       
 EDUCATION	                     Course (Java Industrial Development Fundamentals)
 
-ENGLISH                            A1
+ENGLISH                            A1(base)
